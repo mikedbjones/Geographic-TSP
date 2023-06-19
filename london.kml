@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>london</name>
+	<gx:CascadingStyle kml:id="__managed_style_257473992D2A091356EE">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_17A79D80902A091356EE">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0BA56086772A091356EE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17A79D80902A091356EE</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_257473992D2A091356EE</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="089F4984162A091356EE">
+		<name>London Transport Museum</name>
+		<LookAt>
+			<longitude>-0.1230246553933534</longitude>
+			<latitude>51.51084269062112</latitude>
+			<altitude>36.36402764758712</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1218.28804898425</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1217309089977192,51.51194978510316,20.26083812154291</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="013D19A06A2A09137FF4">
+		<name>Leicester Square</name>
+		<LookAt>
+			<longitude>-0.1251249004075961</longitude>
+			<latitude>51.51059610615246</latitude>
+			<altitude>30.76614983372976</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1223.885995492019</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1300885820029751,51.51032624499634,30.98226975984216</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="057FA72D382A0913BEE9">
+		<name>Imperial War Museum</name>
+		<LookAt>
+			<longitude>-0.1087494276661827</longitude>
+			<latitude>51.4983240650122</latitude>
+			<altitude>9.287506800148977</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2447.281182139996</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.108631661227282,51.4957212705246,28.64259837639348</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="088CECCEDC2A0913EE47">
+		<name>The Gherkin</name>
+		<LookAt>
+			<longitude>-0.08483106946990282</longitude>
+			<latitude>51.5112750718075</latitude>
+			<altitude>44.00603339813928</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1908.839033838886</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.08040733540033429,51.51442809670552,186.2474673132654</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0071CEF8FC2A09142EB6">
+		<name>Royal Albert Hall</name>
+		<LookAt>
+			<longitude>-0.1631678206734766</longitude>
+			<latitude>51.5072233316813</latitude>
+			<altitude>21.8084486567923</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4406.223696066882</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1772468128133775,51.50097932286668,57.25108075568123</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00148D1C942A091455AF">
+		<name>Soho</name>
+		<LookAt>
+			<longitude>-0.1631678206734766</longitude>
+			<latitude>51.5072233316813</latitude>
+			<altitude>21.8084486567923</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4406.223696066882</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1369529636093658,51.51356337862973,43.1827468016555</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="026E51F6822A09147589">
+		<name>Victoria &amp; Albert Museum</name>
+		<LookAt>
+			<longitude>-0.1631678206734766</longitude>
+			<latitude>51.5072233316813</latitude>
+			<altitude>21.8084486567923</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4406.223696066882</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1726492377553246,51.4968665894136,25.68814239255952</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07D5FE8C492A0914A45E">
+		<name>London Zoo</name>
+		<LookAt>
+			<longitude>-0.1595474866908753</longitude>
+			<latitude>51.52214031096972</latitude>
+			<altitude>25.72474830075936</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>12112.76250373456</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1534276270604303,51.53528457101964,36.69860213281635</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0701B9F9FF2A09211C6C">
+		<name>The British Library</name>
+		<LookAt>
+			<longitude>-0.1227164751788057</longitude>
+			<latitude>51.52657272700768</latitude>
+			<altitude>29.17145031755017</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2373.466647065361</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1276748154189513,51.5299707100427,41.02409157815654</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0269FA7F582A09216DEE">
+		<name>US Embassy</name>
+		<LookAt>
+			<longitude>-0.1376566043238403</longitude>
+			<latitude>51.4808841252199</latitude>
+			<altitude>2.538719290259355</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2059.255349376763</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.132235684237627,51.48256497479467,68.65490961273467</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05E04E9D7A2A0921B948">
+		<name>O2</name>
+		<LookAt>
+			<longitude>0.002053915982151988</longitude>
+			<latitude>51.49507603369138</latitude>
+			<altitude>4.158603511775696</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5629.653463693104</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>0.00340807763106632,51.50257817384215,51.04924914126821</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DD28C4A832A0921E713">
+		<name>Queen Mary University</name>
+		<LookAt>
+			<longitude>-0.01867056129814637</longitude>
+			<latitude>51.51676090789731</latitude>
+			<altitude>4.013274987056876</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7988.607225143351</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.03989858640644939,51.52362806775782,11.37545376296111</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08E218DDE02A09223983">
+		<name>Emirates Stadium</name>
+		<LookAt>
+			<longitude>-0.1026098634577932</longitude>
+			<latitude>51.55283208174416</latitude>
+			<altitude>41.71780059344262</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3346.025787637336</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1082245327003306,51.5549123401007,27.14735445087647</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E82206D442A0922A68F">
+		<name>London Eye</name>
+		<LookAt>
+			<longitude>-0.1097678255010048</longitude>
+			<latitude>51.50296482400185</latitude>
+			<altitude>2.935909177514218</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2276.251636835514</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1195343299916329,51.50324574294209,6.995355083941622</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F691D428F2A0922E93F">
+		<name>Battersea Park</name>
+		<LookAt>
+			<longitude>-0.1634005509063519</longitude>
+			<latitude>51.48253113204874</latitude>
+			<altitude>0.1191762748539138</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3666.902406639419</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1572389020867027,51.48168192136905,15.5505229851187</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A37B3F8B92A09234656">
+		<name>Buckingham Palace</name>
+		<LookAt>
+			<longitude>-0.1385164979884734</longitude>
+			<latitude>51.50302547261199</latitude>
+			<altitude>18.66508555539956</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1633.380496859027</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1408976159409936,51.50168746600271,4.926807275946927</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06CBA008452A0923B42C">
+		<name>Madame Tussauds</name>
+		<LookAt>
+			<longitude>-0.1350052738787688</longitude>
+			<latitude>51.515026627227</latitude>
+			<altitude>40.27949161772042</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5160.947890924872</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1546179562910777,51.52288537381497,47.00918268013473</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D087933DD2A0923E22F">
+		<name>The Postal Museum</name>
+		<LookAt>
+			<longitude>-0.1263348236379513</longitude>
+			<latitude>51.51904821843554</latitude>
+			<altitude>44.11939493333858</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5157.107826262946</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1138661143543925,51.52476973546576,17.96983898167697</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="034EAE05E22A09240B97">
+		<name>Charles Dickens Museum</name>
+		<LookAt>
+			<longitude>-0.1263348236379513</longitude>
+			<latitude>51.51904821675824</latitude>
+			<altitude>44.11939492909463</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5157.107826262945</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1162914234203254,51.52358457791806,29.60266331305176</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="027F14AEE62A09243119">
+		<name>BT Tower</name>
+		<LookAt>
+			<longitude>-0.1263348236379513</longitude>
+			<latitude>51.51904821508094</latitude>
+			<altitude>44.11939492485069</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5157.107826262946</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1388382125686745,51.52146123261375,198.6987821689551</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="021255405F2A09246BC0">
+		<name>Hyde Park</name>
+		<LookAt>
+			<longitude>-0.1622849731527776</longitude>
+			<latitude>51.50541107724138</latitude>
+			<altitude>13.28967154610337</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2380.967659901362</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1654890988711955,51.50741249778088,18.68254319068679</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B475EB3542A09286C45">
+		<name>Cutty Sark</name>
+		<LookAt>
+			<longitude>-0.02204764516835489</longitude>
+			<latitude>51.48432613309883</latitude>
+			<altitude>6.758622439802329</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3217.262541683741</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.0096726241059919,51.48293753241759,9.934431059259733</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02D2DC9F322A0928962E">
+		<name>Museum of London Docklands</name>
+		<LookAt>
+			<longitude>-0.02194191966005676</longitude>
+			<latitude>51.51146076498517</latitude>
+			<altitude>4.025312905066347</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>10843.11808635131</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.02384529532967284,51.50756022384454,13.01437581553512</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A4C67174A2A09290D08">
+		<name>Canary Wharf</name>
+		<LookAt>
+			<longitude>-0.008715870671623938</longitude>
+			<latitude>51.50690550240944</latitude>
+			<altitude>1.218857019845796</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3832.615937754745</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.01949905563186176,51.50494851133314,242.7303009533703</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01700A6D902A09293DD1">
+		<name>London Stadium</name>
+		<LookAt>
+			<longitude>-0.01310737910287463</longitude>
+			<latitude>51.53472481673347</latitude>
+			<altitude>9.307551588483369</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4877.950144425267</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.01670803860651993,51.53851140110806,8.066377509050348</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E246AC01F2A0929A2D6">
+		<name>Jack The Ripper Museum</name>
+		<LookAt>
+			<longitude>-0.0591569546947579</longitude>
+			<latitude>51.51588328440285</latitude>
+			<altitude>11.7564797398361</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3452.659432563815</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.06791133671016041,51.51080461726219,22.87270530603532</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B96C256332A0929FEB8">
+		<name>Fashion and Textile Museum</name>
+		<LookAt>
+			<longitude>-0.08050214453742544</longitude>
+			<latitude>51.4996352919627</latitude>
+			<altitude>2.53865280036998</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2596.138294213742</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.08187027815934578,51.50116259834793,16.21220229359524</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="049B68914F2A092A4309">
+		<name>City University</name>
+		<LookAt>
+			<longitude>-0.08843415462136073</longitude>
+			<latitude>51.52245039786172</latitude>
+			<altitude>17.47575308085677</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4866.260846674559</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BA56086772A091356EE</styleUrl>
+		<Point>
+			<coordinates>-0.1024585765796727,51.52797117586671,22.61764188682432</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
